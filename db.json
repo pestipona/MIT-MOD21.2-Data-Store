@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "lowdb is awesome",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "The Count of Monte Cristo",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "The Lord of the Rings",
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "The Alchemist",
+      "published": true
+    }
+  ]
+}
